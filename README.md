@@ -18,6 +18,5 @@ Node.Js, MongoDB, Express, Passport, Fast-csv, ejs
 # SETUP
 
 1) Run `npm install` command in the terminal to install required dependencies
-2) Create a .env file in config directory of this project
-3) Write environment variables in .env file:
+2) Then, npm start command in the terminal.
 
